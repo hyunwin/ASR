@@ -25,3 +25,5 @@
  1. Running the Conformer model using CommonVoice corpus: https://commonvoice.mozilla.org/en/datasets
  2. Futher training the pretrained LibriSpeech Conformer model to enhance accuracy
  
+# Source
+https://github.com/TensorSpeech/TensorFlowASR
