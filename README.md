@@ -16,9 +16,9 @@
 
 
  Note: 
- - edited "config.yml" and "run.sh" files are in the repository
+ - Edited "config.yml" and "run.sh" files are in the repository
  - The "conformer.py" in repository is from the "TensorFlowASR/examples/demonstration" folder and includes the code that was used to created a SavedModel file from the Conformer model
- - "generate_vocab_sentencepiece.py and "generate_vocab_subwords.py" are the files that I was last working in order to run the Conformer model using the CommonVoice corpus but could not get them to output the desired outcome
+ - The "generate_vocab_sentencepiece.py and "generate_vocab_subwords.py" are the files that I was last working in order to run the Conformer model using the CommonVoice corpus but could not get them to output the desired outcome
  - The "audiofiles" folder contains the audio clips of the 911 calls
 
 # Unfinished
