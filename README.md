@@ -15,7 +15,7 @@
  14. Run "run.sh" and program should output the transcipt of the audio file you set.
 
 
-#Unfinished
+# Unfinished
  1. Running the Conformer model using CommonVoice corpus: https://commonvoice.mozilla.org/en/datasets
  2. Futher training the pretrained LibriSpeech Conformer model to enhance accuracy
  
