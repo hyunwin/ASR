@@ -13,3 +13,9 @@
  12. Go into the virutal environment using "conda activate tf"
  13. Set the audio path of "run.sh" using "export AUDIO_PATH=pathtoaudiofile" (The audio file you want to translate)
  14. Run "run.sh" and program should output the transcipt of the audio file you set.
+
+
+#Unfinished
+ 1. Running the Conformer model using CommonVoice corpus: https://commonvoice.mozilla.org/en/datasets
+ 2. Futher training the pretrained LibriSpeech Conformer model to enhance accuracy
+ 
