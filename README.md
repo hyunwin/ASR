@@ -1,4 +1,4 @@
-# Instructions (Running the TensorFlowASR Pretrained Model)
+# Instructions (Running the TensorFlowASR Pretrained Conformer Model)
  1. Download the pretrained LibirSpeech Conformer model: https://drive.google.com/drive/folders/1BD0AK30n8hc-yR28C5FW3LqzZxtLOQfl
  2. In the "subword-conformer folder", unzip the "pretrained-subword-conformer.zip".
  3. After unzipping, enter the unzipped folder and run "setup.sh"
